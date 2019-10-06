@@ -1,0 +1,4 @@
+{
+    "mailSendInterval": 6000, 
+    "delayedHours": 1
+}

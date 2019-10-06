@@ -1,0 +1,12 @@
+{
+   "mysql": {
+      "host": "localhost",
+      "port": "3306",
+      "user": "rokon",
+      "password": "rokon-zaman",
+      "database": "mysql",
+      "connectionString":"mysql://rokon:testrokon@localhost/mysql",
+      "query": "select count (*) AS total from user"
+
+   }
+}

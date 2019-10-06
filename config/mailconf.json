@@ -1,0 +1,10 @@
+{
+    "gmail": {
+        "service": "gmail",
+        "username": "rokon2842@gmail.com",
+        "password": "*******"
+    },
+    "to": "rokon2842@gmail.com",
+    "subject": "Notification of blockchain write delays",
+    "from": "rokon2842@gmail.com"
+}
